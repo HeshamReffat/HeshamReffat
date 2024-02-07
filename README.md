@@ -2,7 +2,7 @@
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💳 Building a E-Commerce apps at [E-motion](https://e-motionagency.com/) <img width="1.2%" alt="Emotion Logo" src="https://e-motionagency.com/templates/cdn/images/logo.png" />
+- 💳 Building an E-Commerce apps at [E-motion](https://e-motionagency.com/) <img width="1.2%" alt="Emotion Logo" src="https://e-motionagency.com/templates/cdn/images/logo.png" />
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/hesham-reffat) or [Mail](mailto:heshamreffat60@gmail.com)
 
 #### Most proud projects 🚀
